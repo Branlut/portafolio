@@ -16,17 +16,17 @@
     <div class="wrapper">
     
       <header>
-          <p align="center">
-  <img src="assets/fonts/Imagen lk-modified.png" alt="Mi Logo" width="120">
-</p>
+      
         <a href="{{ site.github.url }}"> <h1>{{ site.title | default: site.github.repository_name }}</h1> </a>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-
+        <p align="center">
+          <img src="assets/fonts/Imagen lk-modified.png" alt="Mi Logo" width="120">
+        </p>
         {% if site.github.is_project_page %}
           <p class="view"><a href="{{ site.github.owner_url }}" class="btn" aria-label="GitHub" title="GitHub">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="24" alt="GitHub">
-</a>
-</p>
+            <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="24" alt="GitHub">
+            </a>
+          </p>
         {% endif %}
 
         {% if site.github.is_user_page %}
