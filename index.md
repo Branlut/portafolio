@@ -46,17 +46,17 @@ Ingeniero en informática titulado, bilingüe (ingles B1) con sólidos conocimie
 
 ### Hallazgos
 
--En promedio hay 11 personas que visitan CartScreenAppear , 16 que visitan MainScreenAppear, 10 que visitan OffersScreenAppear, 10 que visitan PaymentScreenSuccessful y 1 que visitan Tutorial
+- En promedio hay 11 personas que visitan CartScreenAppear , 16 que visitan MainScreenAppear, 10 que visitan OffersScreenAppear, 10 que visitan PaymentScreenSuccessful y 1 que visitan Tutorial
 
--Con respecto a los promedios la mayoria es obviamente los de la la pagina principal ya que este es el punto de contacto, disminuye con respecto a ver las ofertas, el carro, el pago como tal y practicamente nadie ve el tutorial
+- Con respecto a los promedios la mayoria es obviamente los de la la pagina principal ya que este es el punto de contacto, disminuye con respecto a ver las ofertas, el carro, el pago como tal y practicamente nadie ve el tutorial
 
--a medida que avanza el flujo de los eventos se ve una disminucion de personas siendo las que completan una compra muy pocas un 2.7%
+- A medida que avanza el flujo de los eventos se ve una disminucion de personas siendo las que completan una compra muy pocas un 2.7%
 
 ### Conclusiones
 
--Segun los datos el experimento aunque tuviera una corta duracion se tuvo una proporcion casi igual en los diferentes grupos
+- Segun los datos el experimento aunque tuviera una corta duracion se tuvo una proporcion casi igual en los diferentes grupos
 
--Por otro lado los cambios realizados para el experimento parecen no afectar el comportamiento del usuario por lo que se recomienda buscar uno con mayor impacto para realizar ventas.
+- Por otro lado los cambios realizados para el experimento parecen no afectar el comportamiento del usuario por lo que se recomienda buscar uno con mayor impacto para realizar ventas.
 
 ## [](#header-5)Análisis venta de videojuegos
 
