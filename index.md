@@ -35,21 +35,10 @@ Ingeniero en informática titulado, bilingüe (ingles B1) con sólidos conocimie
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftexcel.svg" alt="Excel" width="40" style="margin-right:10px;" />
 </p>
 # [](#header-3)Proyectos
+
 ## [](#header-4)Usuario y sus compras de alimentos
 
 
 ## [](#header-5)Análisis venta de videojuegos
 
-#### [](#header-4)Header 4
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### [](#header-5)Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### [](#header-6)Header 6
