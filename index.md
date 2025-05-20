@@ -38,7 +38,7 @@ Ingeniero en informática titulado, bilingüe (ingles B1) con sólidos conocimie
 ## [](#header-4)Usuario y sus compras de alimentos
 
 ### Contexto
-- La empresa de productos alimenticios en la cual trabajamos nos pidio realizar una investigacion del comportamiento de los usuarios
+- La empresa de productos alimenticios en la cual trabajamos nos pidió realizar una investigación del comportamiento de los usuarios
 
 ### Objetivo
 - Estudiar el embudo de ventas y realizar una prueba A/A/B para comprobar si los cambios realizados tuvieron el impacto esperado
@@ -47,7 +47,7 @@ Ingeniero en informática titulado, bilingüe (ingles B1) con sólidos conocimie
 
 - En promedio hay 11 personas que visitan CartScreenAppear , 16 que visitan MainScreenAppear, 10 que visitan OffersScreenAppear, 10 que visitan PaymentScreenSuccessful y 1 que visitan Tutorial
 
-- Con respecto a los promedios la mayoria es obviamente los de la la pagina principal ya que este es el punto de contacto, disminuye con respecto a ver las ofertas, el carro, el pago como tal y practicamente nadie ve el tutorial
+- Con respecto a los promedios la mayoría es obviamente los de la la pagina principal ya que este es el punto de contacto, disminuye con respecto a ver las ofertas, el carro, el pago como tal y practicamente nadie ve el tutorial
 
 - A medida que avanza el flujo de los eventos se ve una disminucion de personas siendo las que completan una compra muy pocas un 2.7%
 
@@ -57,13 +57,17 @@ Ingeniero en informática titulado, bilingüe (ingles B1) con sólidos conocimie
 
 - Por otro lado los cambios realizados para el experimento parecen no afectar el comportamiento del usuario por lo que se recomienda buscar uno con mayor impacto para realizar ventas.
 
+### Enlace a proyecto
+
+https://github.com/Branlut/usuarios-y-sus-compras-de-alimentos-
+
 ## [](#header-5)Análisis venta de videojuegos
 
 ### Contexto
-- La tienda online ICE nos pidio realizar un analisis dela preferencia de los usuarios a la hora de comprar videojuegos
+- La tienda online ICE nos pidió realizar un analisis dela preferencia de los usuarios a la hora de comprar videojuegos
 
 ### Objetivo
-- Se nos encargo encontrar tendencias o patrones a la hora de comprar juegos si existen preferencias por alguna platforma, si se tiene preferencia por un genero es especial si la reseñas afectan las compras y si estos difieren de region en region. Todo esto para enfocarse en los juegos que seran mas rentables para el año 2017.
+- Se nos encargo encontrar tendencias o patrones a la hora de comprar juegos si existen preferencias por alguna plataforma, si se tiene preferencia por un género en especial, si las reseñas afectan las compras y si estos difieren de región en región. Todo esto para enfocarse en los juegos que seran mas rentables para el año 2017.
   
 ### Hallazgos
 
@@ -89,14 +93,14 @@ Ingeniero en informática titulado, bilingüe (ingles B1) con sólidos conocimie
 
 - Las personas tiene un genero que prefieren el cual es el de accion de manera general y luego por region por lo menos fue el preferido por Norte America y Europa y segundo mejor en el caso de Japon
 
-- Como se mencionan en el punto anterior tanto las preferiencias con respecto a la plataforma como el genero las regiones de Norte America y Europa tiene tendencias muy parecidas.
+- Como se mencionan en el punto anterior tanto las preferencias con respecto a la plataforma como el genero las regiones de Norte America y Europa tiene tendencias muy parecidas.
 
 - Con respecto al genero de accion esto se puede evidenciar en la comparacion de los mismos juegos en otras plataformas en la cual la mayoria son del genero accion
 
-- Se puede evidenciar que las reseñas de los juegos influencia su compra en mas medida las de los propios usuarios
+- Se puede evidenciar que las reseñas de los juegos influyen en su compra en mas medida las de los propios usuarios
 
-- Los jugadores tienden a preferir juegos con rating(categoria de edad recomendada para un juego) de M lo que quiere decir que estan interesados en juegos que pueden contener violencia, escenas de sangre, etc/
+- Los jugadores tienden a preferir juegos con rating(categoría de edad recomendada para un juego) M lo que quiere decir que estan interesados en juegos que pueden contener violencia, escenas de sangre, etc/
 
-- Por los datos anteriores se puede concluir que los juegos mas rentables seran los de genero accion ya que es una gran preferencia en las 3 regiones estudiadas, en cuanto a las plataformas se vio una tendencia hacia las marcas Playstation, Xbox y nintendo, por lo que la PS4,Xbox One y Nintendo WiiU son las plataformas a considerar para futaras ventas
+- Por los datos anteriores se puede concluir que los juegos mas rentables seran los de genero accion ya que es una gran preferencia en las 3 regiones estudiadas, en cuanto a las plataformas se vio una tendencia hacia las marcas Playstation, Xbox y nintendo, por lo que la PS4,Xbox One y Nintendo WiiU son las plataformas a considerar para futuras ventas
 
 
