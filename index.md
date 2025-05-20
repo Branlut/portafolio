@@ -57,7 +57,7 @@ Ingeniero en informática titulado, bilingüe (ingles B1) con sólidos conocimie
 
 - Por otro lado los cambios realizados para el experimento parecen no afectar el comportamiento del usuario por lo que se recomienda buscar uno con mayor impacto para realizar ventas.
 
-###[Enlace a proyecto completo](https://github.com/Branlut/usuarios-y-sus-compras-de-alimentos-)
+### [Enlace a proyecto completo](https://github.com/Branlut/usuarios-y-sus-compras-de-alimentos-)
 
 ## [](#header-5)Análisis venta de videojuegos
 
@@ -101,5 +101,5 @@ Ingeniero en informática titulado, bilingüe (ingles B1) con sólidos conocimie
 
 - Por los datos anteriores se puede concluir que los juegos mas rentables seran los de genero accion ya que es una gran preferencia en las 3 regiones estudiadas, en cuanto a las plataformas se vio una tendencia hacia las marcas Playstation, Xbox y nintendo, por lo que la PS4,Xbox One y Nintendo WiiU son las plataformas a considerar para futuras ventas
 
-###[Enlace a proyecto completo](https://github.com/Branlut/analisis-venta-videojuegos)
+### [Enlace a proyecto completo](https://github.com/Branlut/analisis-venta-videojuegos)
 
