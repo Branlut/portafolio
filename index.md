@@ -57,9 +57,7 @@ Ingeniero en informática titulado, bilingüe (ingles B1) con sólidos conocimie
 
 - Por otro lado los cambios realizados para el experimento parecen no afectar el comportamiento del usuario por lo que se recomienda buscar uno con mayor impacto para realizar ventas.
 
-### Enlace a proyecto
-
-https://github.com/Branlut/usuarios-y-sus-compras-de-alimentos-
+###[Enlace a proyecto completo](https://github.com/Branlut/usuarios-y-sus-compras-de-alimentos-)
 
 ## [](#header-5)Análisis venta de videojuegos
 
@@ -91,16 +89,17 @@ https://github.com/Branlut/usuarios-y-sus-compras-de-alimentos-
 
 - Con respecto al punto anterior en el ambito de los videojuegos la plataforma PC como esta descrita en el dataframe siempre se debe tener en consideracion
 
-- Las personas tiene un genero que prefieren el cual es el de accion de manera general y luego por region por lo menos fue el preferido por Norte America y Europa y segundo mejor en el caso de Japon
+- Las personas tiene un genero que prefieren el cual es el de acción de manera general y luego por región por lo menos fue el preferido por Norte America y Europa y segundo mejor en el caso de Japon
 
 - Como se mencionan en el punto anterior tanto las preferencias con respecto a la plataforma como el genero las regiones de Norte America y Europa tiene tendencias muy parecidas.
 
-- Con respecto al genero de accion esto se puede evidenciar en la comparacion de los mismos juegos en otras plataformas en la cual la mayoria son del genero accion
+- Con respecto al genero de acción esto se puede evidenciar en la comparacion de los mismos juegos en otras plataformas en la cual la mayoria son del género acción
 
 - Se puede evidenciar que las reseñas de los juegos influyen en su compra en mas medida las de los propios usuarios
 
-- Los jugadores tienden a preferir juegos con rating(categoría de edad recomendada para un juego) M lo que quiere decir que estan interesados en juegos que pueden contener violencia, escenas de sangre, etc/
+- Los jugadores tienden a preferir juegos con rating(categoría de edad recomendada para un juego) M lo que quiere decir que estan interesados en juegos que pueden contener violencia, escenas de sangre, etc.
 
 - Por los datos anteriores se puede concluir que los juegos mas rentables seran los de genero accion ya que es una gran preferencia en las 3 regiones estudiadas, en cuanto a las plataformas se vio una tendencia hacia las marcas Playstation, Xbox y nintendo, por lo que la PS4,Xbox One y Nintendo WiiU son las plataformas a considerar para futuras ventas
 
+###[Enlace a proyecto completo](https://github.com/Branlut/analisis-venta-videojuegos)
 
